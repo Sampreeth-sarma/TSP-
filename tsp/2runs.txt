@@ -1,0 +1,29 @@
+This is the solution of TSP by using Greedy algorithm with 30 cities.
+The cost function used is c2 with MEB value 465
+path is :7	2	7	13	18	24	29	28	3	6	14	17	25	26	5	4	16	15	27	23	8	1	19	12	11	9	0	20	22
+cost is:544
+
+
+This is the solution of TSP by using Genetic algorithm with 30 cities.
+The cost function used is c2 with MEB value 465
+path is:
+24 27 7 11 2 9 0 5 28 22 1 14 17 15 29 26 3 21 8 4 10 16 23 18 19 6 13 20 12 25 
+cost is : 231.0
+
+
+17 9 15 8 0 16 1 18 10 13 5 2 7 11 6 4 12 3 14 19 
+cost is : 448.0
+
+
+17 2 1 16 11 3 9 7 18 4 14 12 19 13 10 0 6 5 15 8 
+cost is : 448.0
+
+
+2 1 7 18 14 16 10 15 12 6 0 17 13 5 11 4 8 9 3 19 
+cost is : 449.0
+
+
+9 1 8 2 0 7 4 6 3 5 
+cost is : 426.0
+
+
